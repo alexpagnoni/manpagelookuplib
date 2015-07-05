@@ -1,0 +1,29 @@
+# Module short name
+MODULEIDNAME       = manpagelookuplib
+
+# Module version number
+MODULEVERSION      = 1.0.0
+
+# Module release date
+MODULEDATE         = 05/10/2001
+
+# Module long description
+MODULEDESCRIPTION  = Man page lookup library
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR       = David Fox
+MODULE_AUTHOR_EMAIL =
+MODULE_AUTHOR_SITE  = http://www.angryrobot.com
+MODULE_SUPPORT_EMAIL    = alex@ampoliros.com
+MODULE_BUGS_EMAIL   = alex@ampoliros.com
+MODULE_COPYRIGHT    = Copyright (c) 1999 David Fox, Angryrobot Productions
+MODULE_LICENSE      = Open source
+MODULE_LICENSE_FILE = LICENSE
+MODULE_MAINTAINER   = Alex Pagnoni
+MODULE_MAINTAINER_EMAIL = alex@ampoliros.com
+MODULE_CATEGORY     = libraries

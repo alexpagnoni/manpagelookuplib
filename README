@@ -1,0 +1,62 @@
+General information
+-------------------
+
+// class.manpagelookup.php
+// version 1.0.1
+//
+// This is a class allows you to do a man page lookup and view
+// the results in a parsed format, including bold, italics and
+// coloured text.
+//
+// based on a C man page viewer by by Vadim Pavlov
+//
+// Andrew Collington, amnuts@talker.com, http://amnuts.talker.com/
+// 27th September, 2001
+//
+
+
+//
+// example of use:
+//     require("class.manpagelookup.php");
+//     $mp = new ManPageLookUp("gets");
+//     $mp->DisplayManPage();
+
+
+
+License
+-------
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+	A working Ampoliros platform installation.
+
+Clientside:
+	a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Ampoliros official home page:
+	http://www.ampoliros.com
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.
